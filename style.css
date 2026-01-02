@@ -38,6 +38,6 @@ h1 {
     transition :  transform 0.3s ease;
 }
 .plant:hover {
-    transform : scale(1.05);
+    transform : scale(1.10);
 }
 
