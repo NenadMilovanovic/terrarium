@@ -28,6 +28,7 @@ h1 {
     position : relative;
     height : 13%;
     left : -0.6rem;
+    padding : 0.5rem;
 }
 .plant {
     position : absolute;
