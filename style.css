@@ -46,7 +46,7 @@ h1 {
     max-width : 150%;
     max-height : 150%;
     z-index: 2;
-  transition: transform 0.3s ease, left 1s ease, top 1s ease;
+    transition :  transform 0.3s ease;
     display: block;
     transform-origin: bottom center;
     will-change: transform;
