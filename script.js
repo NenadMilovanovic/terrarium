@@ -38,15 +38,5 @@ function dragElement(terrariumElement) {
     }
 }
 
-    function bringImageToFront(imageElement) {
-        imageElement.style.zIndex = 1000; // Set a high z-index value
-    }
-
-    const images = document.querySelectorAll('img');
-
-    images.forEach(image => {
-        image.addEventListener('dblclick', function() {
-            bringImageToFront(this);
-        });
-    });
+ 
 
